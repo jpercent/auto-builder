@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Mock
+Bundle-SymbolicName: org.syndeticlogic.minerva.mock
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: org.syndeticlogic.minerva.mock.Activator
+Require-Bundle: org.syndeticlogic.core;bundle-version="1.0.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Import-Package: org.junit;version="4.8.1",org.osgi.framework;version="1.3.0",org.syndeticlogic.minerva.diagnostics

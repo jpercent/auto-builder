@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Test
+Bundle-SymbolicName: org.syndeticlogic.minerva.test
+Bundle-Version: 1.0.0.qualifier
+Fragment-Host: org.syndeticlogic.minerva
+Export-Package: org.syndeticlogic.minerva.mock
+Require-Bundle: org.syndeticlogic.minerva;bundle-version="1.0.0",
+ org.syndeticlogic.minerva.tools;bundle-version="1.0.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Import-Package: org.junit;version="4.8.1"

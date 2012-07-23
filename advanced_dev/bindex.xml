@@ -1,0 +1,255 @@
+<html><head><meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><title>Knopflerfish bundle repository - 3.1.0</title><link rel="stylesheet" type="text/css" href="bindex_files/osgi.css"></head><body><h1>Knopflerfish bundle repository - 3.1.0</h1><p>Last modified 	
+				20101020061446.653.</p><table><tbody><tr><th width="200px">Link</th><th>Version</th><th>doc/src</th><th>Description</th><th>Bytes</th></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/axis-osgi/axis-osgi_all-0.1.0.kf3.jar">axis-osgi</a></td><td>0.1.0.kf3</td><td><a href="https://www.knopflerfish.org/svn/knopflerfish.org/trunk/osgi/bundles_opt/soap/axis.html">D</a></td><td>
+      Axis Server
+    </td><td>
+      1361257
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/axis2-osgi/axis2-osgi_all-1.3.0.kf3.jar">axis2-osgi</a></td><td>1.3.0.kf3</td><td><a href="http://www.knopflerfish.org/">D</a></td><td>
+      Axis2 Server
+    </td><td>
+      7931347
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/basicdriverlocator/basicdriverlocator_all-3.0.0.jar">basicdriverlocator</a></td><td>3.0.0</td><td><a href="http://www.knopflerfish.org/">D</a></td><td>
+      Basic device driver locator
+    </td><td>
+      6859
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/bundlerepository/bundlerepository_all-3.1.2.jar">Bundlerepository</a></td><td>3.1.2</td><td><a href="https://www.knopflerfish.org/svn/knopflerfish.org/trunk/osgi/bundles/bundlerepository/readme.txt">D</a></td><td>
+      OBR bundle repository using the KF console and desktop
+    </td><td>
+      172723
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/cm/cm_all-3.0.1.jar">cm</a></td><td>3.0.1</td><td><a href="http://www.knopflerfish.org/">D</a></td><td>
+      Configuration management service
+    </td><td>
+      67481
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/cm_cmd/cm_cmd-3.0.1.jar">CM-Commands-IMPL</a></td><td>3.0.1</td><td><a href="http://www.knopflerfish.org/">D</a></td><td>
+      Commands for the CM service (IMPL)
+    </td><td>
+      18701
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/cm_desktop/cm_desktop_all-3.0.0.jar">CM-Desktop</a></td><td>3.0.0</td><td><a href="https://www.knopflerfish.org/svn/knopflerfish.org/trunk/osgi/bundles/metatype/cm_desktop/readme.html">D</a></td><td>
+      CM desktop plugin
+    </td><td>
+      49933
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/comm-linux/comm-linux_all-2.0.0.jar">comm-linux</a></td><td>2.0.0</td><td><a href="https://www.knopflerfish.org/svn/knopflerfish.org/trunk/osgi/bundles_opt/serial/readme.txt">D</a></td><td>
+      Native driver for linux javax.comm using the RXTX library.
+       Note that this bundle is LGPL and contains full source to
+       rxtx
+    </td><td>
+      119636
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/comm-win32/comm-win32_all-2.0.1.jar">comm-win32</a></td><td>2.0.1</td><td><a href="https://www.knopflerfish.org/svn/knopflerfish.org/trunk/osgi/bundles_opt/serial/readme.txt">D</a></td><td>
+      Native driver for win32 javax.comm using Sun's COMM library
+    </td><td>
+      38738
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/command/command_all-0.1.jar">command</a></td><td>0.1.0</td><td><a href="http://www.knopflerfish.org/">D</a></td><td>
+      Command Service
+    </td><td>
+      35731
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/commons-logging/commons-logging_all-2.0.0.kf3.jar">Commons-Logging</a></td><td>2.0.0.kf3</td><td><a href="https://www.knopflerfish.org/svn/knopflerfish.org/trunk/osgi/bundles_opt/commons-logging/readme.txt">D</a></td><td>
+      Apache Commons logging. Publishced under Apache License. See
+       http://www.apache.org/licenses/LICENSE-2.0
+    </td><td>
+      37113
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/connectors/connectors_all-2.0.1.jar">Connection-Factories</a></td><td>2.0.1</td><td><a href="http://www.knopflerfish.org/">D</a></td><td>
+      OSGi IO http, socket and datagram-receive Connectors
+    </td><td>
+      17805
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/console/console_all-3.0.1.jar">Console</a></td><td>3.0.1</td><td><a href="http://www.knopflerfish.org/releases/current/docs/bundledoc/index.html?docpage=console/index.html">D</a></td><td>
+      Service system console
+    </td><td>
+      39294
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/console2command/console2command-1.0.0.jar">Console2Command-IMPL</a></td><td>1.0.0</td><td><a href="http://www.knopflerfish.org/">D</a></td><td>
+      Wrapper for KF console commands to OSGi 4.2 commands (IMPL)
+    </td><td>
+      6704
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/crimson/crimson-2.1.0.kf3.jar">Crimson-XML</a></td><td>2.1.0.kf3</td><td><a href="http://xml.apache.org/crimson">D</a></td><td>
+      The Crimson XML parser
+    </td><td>
+      196775
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/demo1/demo1_all-2.0.0.jar">demo1</a></td><td>2.0.0</td><td><a href="http://www.knopflerfish.org/">D</a></td><td>
+      Demo bundle
+    </td><td>
+      5406
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/demo1client/demo1client_all-2.0.0.jar">demo1client</a></td><td>2.0.0</td><td><a href="http://www.knopflerfish.org/">D</a></td><td>
+      Demo client bundle
+    </td><td>
+      3992
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/desktop/desktop_all-3.1.5.jar">Desktop</a></td><td>3.1.5</td><td><a href="http://www.knopflerfish.org/desktop.html">D</a></td><td>
+      Swing framework desktop
+    </td><td>
+      779803
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/desktop_jvm/desktop_jvm_all-1.0.0.jar">desktop_jvm</a></td><td>1.0.0</td><td><a href="http://www.knopflerfish.org/">D</a></td><td>
+      JVM info desktop plugin
+    </td><td>
+      14183
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/device/device_all-3.0.0.jar">Device-Manager</a></td><td>3.0.0</td><td><a href="http://www.knopflerfish.org/">D</a></td><td>
+      Device manager
+    </td><td>
+      16351
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/dirdeployer/dirdeployer_all-3.0.1.jar">Directory Deployer</a></td><td>3.0.1</td><td><a href="http://www.knopflerfish.org/releases/current/docs/bundledoc/index.html?docpage=dirdeployer/index.html">D</a></td><td>
+      Monitors a set of file system directory for bundlesto deploy
+    </td><td>
+      15019
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/event/event_all-3.0.4.jar">Event-Admin</a></td><td>3.0.4</td><td><a href="http://www.knopflerfish.org/">D</a></td><td>
+      Event Admin
+    </td><td>
+      33439
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/frameworkcommands/frameworkcommands-3.0.3.jar">FW-Commands-IMPL</a></td><td>3.0.3</td><td><a href="http://www.knopflerfish.org/">D</a></td><td>
+      Framework commands (IMPL)
+    </td><td>
+      34314
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/trayicon_fw/trayicon_fw-3.0.2.jar">FW-Tray</a></td><td>3.0.2</td><td><a href="https://www.knopflerfish.org/svn/knopflerfish.org/trunk/osgi/bundles/trayicon/trayicon_fw/readme.txt">D</a></td><td>
+      Framework tray icon. Allows basic control of the framework
+       using the windows system tray.
+    </td><td>
+      12717
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/httproot/httproot_all-2.0.2.jar">HTTP-root</a></td><td>2.0.2</td><td><a href="http://www.knopflerfish.org/">D</a></td><td>
+      Demo HTTP root servlet
+    </td><td>
+      16411
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/http/http_all-3.0.2.jar">HTTP-Server</a></td><td>3.0.2</td><td><a href="http://www.knopflerfish.org/releases/current/docs/bundledoc/index.html?docpage=http">D</a></td><td>
+      HTTP/HTTPS Server
+    </td><td>
+      97387
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/httpconsole/httpconsole_all-3.0.2.jar">httpconsole</a></td><td>3.0.2</td><td><a href="http://www.knopflerfish.org/">D</a></td><td></td><td>
+      69992
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/io/io_all-3.0.0.jar">io</a></td><td>3.0.0</td><td><a href="http://www.knopflerfish.org/">D</a></td><td>
+      IO
+    </td><td>
+      12708
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/jinidriver/jinidriver_all-0.1.0.jar">Jini-Driver</a></td><td>0.1.0</td><td><a href="http://www.knopflerfish.org/">D</a></td><td>
+      Jini driver (experimental) using Sun's jini impl. jini-core.jar
+       and jini-ext.jar, see http://wwws.sun.com/software/jini/licensing/SCSL3_JiniTSA1.html
+    </td><td>
+      204897
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/junit/junit_all-3.0.0.jar">JUnit</a></td><td>3.0.0</td><td><a href="http://www.knopflerfish.org/releases/current/docs/bundledoc/index.html?docpage=junit">D</a></td><td>
+      JUnit support
+    </td><td>
+      145759
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/junit_runner/junit_runner_all-3.0.0.jar">JUnitRunner</a></td><td>3.0.0</td><td><a href="https://www.knopflerfish.org/svn/knopflerfish.org/trunk/osgi/bundles_opt/junit/junit_runner/readme.txt">D</a></td><td>
+      Grunt, the JUnit test runner. Runs JUnit tests registered in
+       the framework and dumps results to XML files.
+    </td><td>
+      12143
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/kf_metatype/kf_metatype_all-3.0.1.jar">KF-XML-Metatype</a></td><td>3.0.1</td><td><a href="http://www.knopflerfish.org/XMLMetatype/">D</a></td><td>
+      XML format support for CM and Metatype
+    </td><td>
+      98084
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/ksoap_remotefw/ksoap_remotefw_all-3.0.3.jar">kSOAP Remote Framework</a></td><td>3.0.3</td><td><a href="http://www.knopflerfish.org/releases/current/docs/bundledoc/index.html?docpage=remotefw/index.html">D</a></td><td>
+      kSOAP based implementation of a remote framework
+    </td><td>
+      61603
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/ksoap-osgi/ksoap-osgi_all-2.0.0.jar">ksoap-osgi</a></td><td>2.0.0</td><td><a href="http://www.knopflerfish.org/remote_howto.html">D</a></td><td>
+      kSOAP Server
+    </td><td>
+      141675
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/kxml/kxml-2.3.0.kf3.jar">kXML 2-LIB</a></td><td>2.3.0.kf3</td><td><a href="http://kxml.sourceforge.net/kxml2/">D</a></td><td>
+      Packing of kXML 2 as a bundle (LIB)
+    </td><td>
+      56481
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/log/log_all-3.0.5.jar">Log Service</a></td><td>3.0.5</td><td><a href="http://www.knopflerfish.org/">D</a></td><td>
+      The Knopflerfish OSGi log service
+    </td><td>
+      39734
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/logcommands/logcommands-3.0.1.jar">LogCommands-IMPL</a></td><td>3.0.1</td><td><a href="http://www.knopflerfish.org/">D</a></td><td>
+      Log commands (IMPL)
+    </td><td>
+      15455
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/measurement/measurement-3.0.1.jar">measurement-LIB</a></td><td>3.0.1</td><td><a href="http://www.knopflerfish.org/">D</a></td><td>
+      Measurement API (LIB)
+    </td><td>
+      9089
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/metatype/metatype-3.0.0.jar">metatype-LIB</a></td><td>3.0.0</td><td><a href="http://www.knopflerfish.org/">D</a></td><td>
+      Metatype API (LIB)
+    </td><td>
+      5077
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/oscar-shell/oscar-shell_all-1.0.1.jar">oscar-shell</a></td><td>1.0.1</td><td><a href="https://www.knopflerfish.org/svn/knopflerfish.org/trunk/osgi/bundles_opt/oscar-shell/readme.txt">D</a></td><td>
+      Compatability layer for bundles using the Oscar shell API.
+       See readme.txt for details.
+    </td><td>
+      7841
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/position/position-3.0.1.jar">position-LIB</a></td><td>3.0.1</td><td><a href="http://www.knopflerfish.org/">D</a></td><td>
+      Position API (LIB)
+    </td><td>
+      4249
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/prefs/prefs_all-3.0.1.jar">prefs</a></td><td>3.0.1</td><td><a href="http://www.knopflerfish.org/">D</a></td><td>
+      Preferences
+    </td><td>
+      17873
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/remotefw/remotefw_api-2.0.0.jar">RemoteFW-API</a></td><td>2.0.0</td><td><a href="https://www.knopflerfish.org/svn/knopflerfish.org/trunk/osgi/bundles_opt/remotefw/readme.txt">D</a></td><td>
+      Remote Framework (API)
+    </td><td>
+      1560
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/rxtxcomm-linux-arm/rxtxcomm-linux-arm-2.1.7.jar">RXTXcomm-linux-arm-LIB</a></td><td>2.1.7</td><td><a href="https://www.knopflerfish.org/svn/knopflerfish.org/trunk/osgi/bundles_opt/serial/readme.txt">D</a></td><td>
+      RXTX comm native driver for Linux/armle (LIB)
+    </td><td>
+      220546
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/component/component_all-3.0.0.jar">SCR</a></td><td>3.0.0</td><td><a href="http://www.knopflerfish.org/">D</a></td><td>
+      Declarative Services SCR
+    </td><td>
+      52211
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/serialportdevice/serialportdevice_all-2.0.0.jar">serialportdevice</a></td><td>2.0.0</td><td><a href="http://www.knopflerfish.org/">D</a></td><td>
+      Serial port device
+    </td><td>
+      7153
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/soap_demoservice/soap_demoservice_all-1.0.0.jar">soap_demoservice</a></td><td>1.0.0</td><td><a href="http://www.knopflerfish.org/">D</a></td><td>
+      SOAP demo bundle
+    </td><td>
+      5617
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/soap_desktop/soap_desktop-3.0.0.jar">SOAP-desktop-IMPL</a></td><td>3.0.0</td><td><a href="http://www.knopflerfish.org/">D</a></td><td>
+      SOAP Services desktop plugin (IMPL)
+    </td><td>
+      52898
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/soap_remotefw/soap_remotefw_all-3.0.1.jar">SOAP-FW</a></td><td>3.0.1</td><td><a href="http://www.knopflerfish.org/">D</a></td><td>
+      SOAP remote framework
+    </td><td>
+      38537
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/soapobject/soapobject_all-0.0.2.jar">soapobject</a></td><td>0.0.2</td><td><a href="http://www.knopflerfish.org/">D</a></td><td>
+      SOAP objects
+    </td><td>
+      3863
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/sslj2sp/sslj2sp-2.0.0.jar">sslj2sp-IMPL</a></td><td>2.0.0</td><td><a href="https://www.knopflerfish.org/svn/knopflerfish.org/trunk/osgi/bundles/sslj2sp/readme.txt">D</a></td><td>
+      SSL Provider using the J2 security architecture. (IMPL)
+    </td><td>
+      17423
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/consoletcp/consoletcp_all-2.0.0.jar">TCP-Console</a></td><td>2.0.0</td><td><a href="http://www.knopflerfish.org/">D</a></td><td>
+      TCP console
+    </td><td>
+      11927
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/consoletelnet/consoletelnet-3.0.0.jar">Telnet-Console-IMPL</a></td><td>3.0.0</td><td><a href="https://www.knopflerfish.org/svn/knopflerfish.org/trunk/osgi/bundles/console/consoletelnet/readme.txt">D</a></td><td>
+      Telnet console (IMPL)
+    </td><td>
+      29833
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/threadio/threadio_all-0.1.0.jar">threadio</a></td><td>0.1.0</td><td><a href="http://www.knopflerfish.org/">D</a></td><td>
+      ThreadIO Service
+    </td><td>
+      6897
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/commandtty/commandtty-2.0.0.jar">TTY-Command-IMPL</a></td><td>2.0.0</td><td><a href="http://www.knopflerfish.org/">D</a></td><td>
+      Command line system console (IMPL)
+    </td><td>
+      7574
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/consoletty/consoletty-3.0.1.jar">TTY-Console-IMPL</a></td><td>3.0.1</td><td><a href="http://www.knopflerfish.org/">D</a></td><td>
+      Command line system console (IMPL)
+    </td><td>
+      8084
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/upnp/upnp_api-3.0.0.jar">upnp-API</a></td><td>3.0.0</td><td><a href="http://www.knopflerfish.org/">D</a></td><td>
+      UPnP (API)
+    </td><td>
+      5622
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/useradmin/useradmin_all-3.0.1.jar">UserAdmin</a></td><td>3.0.1</td><td><a href="http://www.knopflerfish.org/">D</a></td><td>
+      User Administration Service
+    </td><td>
+      43345
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/util/util-2.0.0.jar">util-LIB</a></td><td>2.0.0</td><td><a href="http://www.knopflerfish.org/">D</a></td><td>
+      Misc utilities (LIB)
+    </td><td>
+      41302
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/xalan/xalan-2.7.1.kf3_01.jar">Xalan</a></td><td>2.7.1.kf3_01</td><td><a href="http://xml.apache.org/xalan-j/">D</a></td><td>
+      The Apache Xalan-Java XML transformer
+    </td><td>
+      1804772
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/xerces/xerces-2.10.1.kf3.jar">Xerces-J</a></td><td>2.10.1.kf3</td><td><a href="http://xerces.apache.org/xerces2-j/">D</a></td><td>
+      The Apache Xerces2 Java XML parser
+    </td><td>
+      1619259
+    </td></tr><tr><td><a href="http://www.knopflerfish.org/repo/jars/xml/xml-3.0.1.jar">xml-LIB</a></td><td>3.0.1</td><td><a href="http://www.knopflerfish.org/">D</a></td><td>
+      XML (LIB)
+    </td><td>
+      4669
+    </td></tr></tbody></table></body></html>
