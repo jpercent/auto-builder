@@ -1,9 +1,6 @@
 Auto Builder: A Tool for Automating PDE-based OSGi Builds
 ==========================================================
 
-Prelude
---------
-
 During the summer of 2010 I was helping out with the Rifidi project.  As part of that, I recommended getting a continuous integration (CI) system in place.
 
 Surprisingly, because of the infrastructure that the Rifidi platform is based on, this was not as straight forward as I thought it would be.  The platform is based on OSGi technology – a dynamic module and service registry specification for Java-based applications.  In particular, it’s based on Eclipse’s Plugin Development Environment (PDE).
@@ -31,10 +28,10 @@ A treasure trove of Python package installation documentation is here.  Just the
 First download the tar.gz version linked above and run the following script from the command-line:
 
 <pre>
-   $ tar xzvf auto-builder-1.0.tar.gz \
-     && pushd auto-builder-1.0 \
-     && sudo python setup.py install \
-     && popd
+$ tar xzvf auto-builder-1.0.tar.gz \
+  && pushd auto-builder-1.0 \
+  && sudo python setup.py install \
+  && popd
 </pre>
 
 That’s it!  The installation can be validated with 2 commands.  First, run the following command: which auto-build.   If the installation failed, then the which command will complain that it can not find auto-build.
@@ -42,13 +39,12 @@ That’s it!  The installation can be validated with 2 commands.  First, run the
 Next, fire-up the Python interpreter and run: import auto_builder.  If the installation failed, then doing so will result in an ImportError exception.  Here’s what a successful validation looks like:
 
 <pre>
-   $ python
-   >>> import auto_builder
-   >>>
-   $ which auto-build
-   /usr/local/bin/auto-build
+$ python
+  >>> import auto_builder
+  >>>
+$ which auto-build
+/usr/local/bin/auto-build
 </pre>
-
 
 Usage
 ------
@@ -58,21 +54,21 @@ The auto builder only needs to know the path to the libraries that comprise the 
 The easiest way to feed this information into the auto builder is to define a file called conf.py; it must be defined the directory from which the auto builder is executed (more on execution in a second).  Here’s an conf.py example:
 
 <pre>
-   # Author: James Percent (james@empty-set.net)
-   # Copyright 2010, 2011 James Percent
+# Author: James Percent (james@empty-set.net)
+# Copyright 2010, 2011 James Percent
 
-   project_name = 'Minerva'
+project_name = 'Minerva'
 
-   library_path = [
-      '../Minerva-SDK/lib/'
-   ]
+library_path = [
+ '../Minerva-SDK/lib/'
+]
 
-   source_path = [
-    '../org.syndeticlogic.minerva',
-    '../org.syndeticlogic.minerva.adapters',
-    '../org.syndeticlogic.minerva.init',
-    '../org.syndeticlogic.minerva.tools'
-   ]
+source_path = [
+ '../org.syndeticlogic.minerva',
+ '../org.syndeticlogic.minerva.adapters',
+ '../org.syndeticlogic.minerva.init',
+ '../org.syndeticlogic.minerva.tools'
+]
 </pre>
 
 The example configuration file defines the following parameters:
@@ -84,6 +80,7 @@ The example configuration file defines the following parameters:
 The project_name is completely optional.  The library_path and source_path are required.  However, they can also be defined via the command-line if that is preferable.
 
 The user interface to the auto builder is the auto-build script.  Here’s the output from running the help:
+
 <pre>
 $ auto-build --help
 Usage: auto-build [options]
